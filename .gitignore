@@ -1,8 +1,26 @@
-/target
+# Rust build artifacts
+/target/
 **/*.rs.bk
+
+# Dependencies
 Cargo.lock
+
+# Environment files
 .env
-.DS_Store
+env.local
+*.env
+
+# Data directory
 /data/
+
+# IDE and OS files
 .idea/
 .vscode/
+.DS_Store
+**/.DS_Store
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
