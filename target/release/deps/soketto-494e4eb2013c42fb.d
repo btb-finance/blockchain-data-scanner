@@ -1,0 +1,16 @@
+/Users/abc/CascadeProjects/uniswap_nft_holders/target/release/deps/libsoketto-494e4eb2013c42fb.rmeta: /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/lib.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/base.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/connection.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/data.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/extension.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/client.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/server.rs
+
+/Users/abc/CascadeProjects/uniswap_nft_holders/target/release/deps/libsoketto-494e4eb2013c42fb.rlib: /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/lib.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/base.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/connection.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/data.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/extension.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/client.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/server.rs
+
+/Users/abc/CascadeProjects/uniswap_nft_holders/target/release/deps/soketto-494e4eb2013c42fb.d: /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/lib.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/base.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/connection.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/data.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/extension.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/client.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/server.rs
+
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/lib.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/base.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/connection.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/data.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/extension.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/client.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/soketto-0.7.1/src/handshake/server.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.1

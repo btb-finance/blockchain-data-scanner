@@ -1,0 +1,11 @@
+/Users/abc/CascadeProjects/uniswap_nft_holders/target/release/deps/libicu_normalizer-41c3f9737a402d40.rmeta: /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/lib.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/error.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/properties.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/provider.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/abc/CascadeProjects/uniswap_nft_holders/target/release/deps/libicu_normalizer-41c3f9737a402d40.rlib: /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/lib.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/error.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/properties.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/provider.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/abc/CascadeProjects/uniswap_nft_holders/target/release/deps/icu_normalizer-41c3f9737a402d40.d: /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/lib.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/error.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/properties.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/provider.rs /Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/lib.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/error.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/properties.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/provider.rs:
+/Users/abc/.cargo/registry/src/github.com-1ecc6299db9ec823/icu_normalizer-1.5.0/src/uts46.rs:
