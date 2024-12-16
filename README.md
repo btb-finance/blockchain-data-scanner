@@ -1,42 +1,56 @@
-# Uniswap V3 NFT Holders Scanner
+# Blockchain Data Scanner
 
-This Rust application scans the Ethereum blockchain to identify and analyze holders of Uniswap V3 NFT positions.
+A Rust-based tool for scanning and analyzing blockchain data, with a focus on NFT holder data from the Uniswap V3 contract.
 
 ## Features
 
-- Scans all Uniswap V3 NFT position tokens
-- Tracks holder addresses and their token counts
-- Saves results in both JSON and text formats
-- Provides total supply and unique holder statistics
+- Fetches NFT holder data from Alchemy API
+- Supports pagination for large datasets
+- Saves progress and can resume from last checkpoint
+- Stores unique holder addresses
+- Handles rate limiting and timeouts gracefully
 
 ## Prerequisites
 
-- Rust and Cargo installed
-- Access to an Ethereum node (via Infura, Alchemy, or other providers)
+- Rust (latest stable version)
+- An Alchemy API key
 
 ## Setup
 
-1. Clone the repository
-2. Copy `env.example` to `.env` and add your Ethereum node URL:
-   ```
-   ETHEREUM_RPC_URL=your_ethereum_node_url
-   ```
+1. Clone the repository:
+```bash
+git clone https://github.com/btb-finance/blockchain-data-scanner.git
+cd blockchain-data-scanner
+```
+
+2. Create a `.env` file with your Alchemy API key:
+```bash
+ALCHEMY_API_KEY=your_api_key_here
+```
+
 3. Build the project:
-   ```
-   cargo build --release
-   ```
+```bash
+cargo build --release
+```
 
 ## Usage
 
 Run the scanner:
-```
+```bash
 cargo run --release
 ```
 
-The results will be saved in:
-- `data/state.json`: Complete scan results in JSON format
-- `data/uniswap_v3_holders.txt`: Simple text file with addresses and token counts
+The scanner will:
+1. Fetch NFT holder data from the Uniswap V3 contract
+2. Save unique holder addresses to `data/uniswap_v3_holders.txt`
+3. Save progress state to `data/state.json`
+4. Resume from last saved state if interrupted
+
+## Output
+
+- `data/uniswap_v3_holders.txt`: List of unique holder addresses
+- `data/state.json`: Current scan state and progress
 
 ## License
 
-MIT
+MIT License
